@@ -1,5 +1,6 @@
 サイトが無くなって失われた物たちをバックアップ用のHDDからもってきたもの  
-toystudio/mechastudio 多分最後の奴。sdkは見つからなかった。ファイル名が判ればどこかにあると思われるが  
+toystudio/mechastudio 多分最後の奴。toystudiosdkはversionが違うがこれが最後だと思う。  
+あとtoystudiosdkとあるがmechastudioでも使えるはず。確か共用。使ったことないけど  
 
 dx11関連
 この辺とか　https://web.archive.org/web/20190719064809/http://zerogram.info/?p=1344  
